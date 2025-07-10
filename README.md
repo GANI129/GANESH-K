@@ -20,12 +20,7 @@
 
 ### 💾 Databases and APIs I Work With:
 
-- 🐬 **MySQL**
-- 🧠 **MongoDB**
-- 🧩 **SQL Workbench**
-- 📮 **Postman** (for API testing)
-
----
+<table> <tr> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> <br/><sub><b>MySQL</b></sub> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/> <br/><sub><b>MongoDB</b></sub> </td> <td align="center" width="140"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="50" height="50" alt="Postman"/> <br/><sub><b>Postman</b></sub> </td> <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/480px-Sql_data_base_with_logo.png" width="50" height="50" alt="SQL Workbench"/> <br/><sub><b>SQL Workbench</b></sub> </td> </tr> </table>
 
 ### 📊 GitHub Stats:
 
