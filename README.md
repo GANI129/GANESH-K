@@ -35,6 +35,6 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://https://www.linkedin.com/in/ganesh-k-837713228/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-k-837713228/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="ganeshkurupudi09@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
 </p>
